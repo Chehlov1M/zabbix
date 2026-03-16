@@ -21,4 +21,8 @@
 ![Страница раздела **Data collection > Hosts** с привязками шаблонов.](pictures_hosts.png)
 *Status - Enabled.*
 
-## Задание 4: Привязка шаблона к двум хостам.
+## Задание 4: Создание дашборда.
+
+![График.](pictures_graph.png)
+*Zabbix server - available memory, cpu utilization.*
+
