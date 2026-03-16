@@ -24,5 +24,5 @@
 ## Задание 4: Создание дашборда.
 
 ![График.](pictures_graph.png)
-*Zabbix server - available memory, cpu utilization.*
+                 *Zabbix server - available memory, cpu utilization.*
 
